@@ -1,3 +1,3 @@
-# Modify this portfolio
+# David Segura Portfolio
 
-Make it your own! 
+Website: https://davidseguraportfolio.netlify.app/

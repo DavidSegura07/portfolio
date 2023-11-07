@@ -1,116 +1,207 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Hola, soy David Segura. Como aspirante a desarrollador full-stack, continuamente perfecciono mi oficio, enfocándome en la aplicación práctica y la comprensión profunda. Cada línea de código que escribo está respaldada por precisión y pensamiento innovador, asegurando una experiencia de usuario impecable y una funcionalidad optimizada."
+    ,
+    "section_name": {
+      "about": "Sobre Mi",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experoencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "Odd Duck Website",
+      "startDate": "2023",
+      "description": "Esta aplicación es un selector de productos para Odd Ducks Inc. Cada empleado de Odd Ducks llegará al trabajo y elegirá el producto que quieren ver fabricado a continuación. Después de que 25 empleados hayan elegido su producto preferido, el equipo de marketing podrá ver los resultados en una lista y una tabla que incluirá el número de visualizaciones y el número de votos de cada producto. Al día siguiente, el equipo de marketing puede actualizar la aplicación y esta guardará los votos y visualizaciones del día anterior, mientras permite otros 25 ciclos de votación.",
+      "images": [
+        "images/portfolio/odd-duck/duck-1.jpg",
+        "images/portfolio/odd-duck/duck-2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Glad Gaming",
+      "startDate": "2023",
+      "description": "Esta aplicación es un juego de Piedra Papel o Tijera con una tabla de clasificación que guarda los datos después de cada ronda y una página de Acerca de Nosotros. El juego contará con múltiples oponentes con diferentes estrategias y tácticas, el objetivo es obtener la mayor cantidad de victorias dentro de un cierto número de rondas y luego ganar contra el mayor número de oponentes seguidos.",
+      "images": [
+        "images/portfolio/glad-gaming/glad-1.jpg",
+        "images/portfolio/glad-gaming/glad-4.jpg",
+        "images/portfolio/glad-gaming/glad-2.jpg",
+        "images/portfolio/glad-gaming/glad-3.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2023",
+      "description": "Pat's Salmon Cookies es un negocio que combina el amor por los dulces con la pasión por los ecosistemas saludables. El producto principal es una golosina para la hora del café llamada Salmon Cookies, que tienen una forma única de salmón y son disfrutadas tanto por humanos como por salmónes reales.",
+      "images": [
+        "images/portfolio/pats/cookies-1.jpg",
+        "images/portfolio/pats/cookies-2.jpg",
+        "images/portfolio/pats/cookies-3.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "El Viaje Fotográfico del RWB #71 Akiba",
+      "startDate": "2020",
+      "description": "Anidado en el paisaje urbano de Santa Ana, el Porsche 911 RWB #71 Akiba demandaba atención con su atrevida postura de carrocería ancha y el estilo único que es firma de RWB. Capturar esta obra maestra automotriz a través del lente fue un ejercicio de contrastes: el aura mecánica cruda del coche contra la suavidad de la luz difusa de California. Cada fotografía apuntaba a inmortalizar la estética agresiva del coche mientras reflejaba la comunidad unida que venera tal artesanía.",
+      "images": [
+        "images/portfolio/Akiba/Akiba_1.jpg",
+        "images/portfolio/Akiba/Akiba_2.jpg",
+        "images/portfolio/Akiba/Akiba_3.jpg",
+        "images/portfolio/Akiba/Akiba_4.jpg",
+        "images/portfolio/Akiba/Akiba_1.jpg",
+        "images/portfolio/Akiba/Akiba_5.jpg",
+        "images/portfolio/Akiba/Akiba_6.jpg",
+        "images/portfolio/Akiba/Akiba_7.jpg",
+        "images/portfolio/Akiba/Akiba_8.jpg",
+        "images/portfolio/Akiba/Akiba_9.jpg",
+        "images/portfolio/Akiba/Akiba_10.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Renacimiento Retro: Duelo de Iconos - El 993 RWB y el Ferrari 360 Liberty Walk",
+      "startDate": "2019",
+      "description": "En el telón de fondo de una época conocida por sus estilos audaces y personalidades aún más atrevidas, dos iconos automovilísticos: el Porsche 993 RWB y el Ferrari 360 Liberty Walk, se presentan lado a lado, ejemplificando el apogeo del rendimiento de los años 80 reimaginado. Ambos coches, con sus posturas impresionantes y carrocerías anchas, son el sueño de un fotógrafo, presentando una yuxtaposición de la precisión alemana y el estilo italiano.",
+      "images": [
+        "images/portfolio/80's/80s_2.jpg",
+        "images/portfolio/80's/80s_1.jpg",
+        "images/portfolio/80's/80s_3.jpg",
+        "images/portfolio/80's/80s_4.jpg",
+        "images/portfolio/80's/80s_5.jpg",
+        "images/portfolio/80's/80s_6.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Velocidad de Obturación: Enmarcando el BMW E36 M3",
+      "startDate": "2019",
+      "description": "El BMW E36 M3, con su acabado llamativo en Azul Estoril y una postura musculosa, se presentaba como un imponente sujeto bajo la luz que se desvanecía. La tarea: capturar el automóvil de una manera que se sintiera auténtica y renovada. La sesión de fotos requería un agudo entendimiento de cómo las curvas y contornos del M3 interactúan con la luz, lo que necesitaba un movimiento constante para encontrar nuevas perspectivas. Las fotografías resultantes no solo resaltan el legado de carreras del coche y su presencia en la carretera, sino que son un testimonio de la ingeniería de BMW y del arte de la fotografía en sí.",
+      "images": [
+        "images/portfolio/PandemE36/E36_1.jpg",
+        "images/portfolio/PandemE36/E36_2.jpg",
+        "images/portfolio/PandemE36/E36_3.jpg",
+        "images/portfolio/PandemE36/E36_4.jpg",
+        "images/portfolio/PandemE36/E36_5.jpg",
+        "images/portfolio/PandemE36/E36_6.jpg",
+        "images/portfolio/PandemE36/E36_7.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "CarPhysics LLC",
+      "title": "Especialista en Marketing Digital y Redes Sociales",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "Instagram",
+        "Facebook Meta",
+        "TikTok",
+        "Shopify",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Premier Pro",
+        "Adobe LightRoom",
+        "Adobe AfterEffects"
+      ]
+    },
+    {
+      "company": "Escuela - Code Fellows",
+      "title": "Ingeniero de Software",
+      "years": "05.2023 - Present",
+      "mainTech": [
+        "SAP"
+      ],
+      "technologies": [
+        "Visual Studio Code",
+        "HTML5",
+        "Sass",
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "company": "Behr Paint",
+      "title": "Capataz de Muelle",
+      "years": "12.2013 - 03.2023",
+      "mainTech": [
+        "SAP"
+      ],
+      "technologies": [
+        "Microsoft Office",
+        "Fork Lift",
+        "Rider Jack",
+        "ASAP Data Management"
+        
+      ]
+    }
+  ]
+}

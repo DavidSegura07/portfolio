@@ -24,9 +24,9 @@ class About extends Component {
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
-                <span style={{ cursor: "auto" }}>
+                <span className="profile-pic" style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
+                    height="100%"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />

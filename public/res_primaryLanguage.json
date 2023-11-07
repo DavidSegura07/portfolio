@@ -11,70 +11,143 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Odd Duck Website",
+        "startDate": "2023",
+        "description": "This app is a product picker for Odd Ducks Inc. Each employee at Odd Ducks will walk into work and pick the product they want to see manufactured next. After 25 employees have picked their preferred product, the marketing team will be able to view the results on a list and a table that will include the number of view and number of votes of each product. The next day, the marketing team can refresh the app and it will save the votes and views from the previous day, while allowing for another 25 rounds of voting.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/odd-duck/duck-1.jpg",
+          "images/portfolio/odd-duck/duck-2.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Glad Gaming",
+        "startDate": "2023",
+        "description": "This app is a Rock Paper Scissors game with a leaderboard that saves data after each round, and an About Us page. The gameplay will feature multiple opponents with different strategies and gambits, the goal is to get the most wins within a certain number of rounds, and then win against the highest number of opponents in a row.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/glad-gaming/glad-1.jpg",
+          "images/portfolio/glad-gaming/glad-4.jpg",
+          "images/portfolio/glad-gaming/glad-2.jpg",
+          "images/portfolio/glad-gaming/glad-3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies-Website",
+        "startDate": "2023",
+        "description": "Pat's Salmon Cookies is a business that combines a love for sweets with a passion for healthy ecosystems. The main product is a coffee-time confection called Salmon Cookies, which are uniquely shaped like salmon and are enjoyed by both humans and actual salmon.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pats/cookies-1.jpg",
+          "images/portfolio/pats/cookies-2.jpg",
+          "images/portfolio/pats/cookies-3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "In the Frame: The RWB #71 Akiba's Photographic Journey",
+        "startDate": "2020",
+        "description": "Nestled in the urban landscape of Santa Ana, the RWB #71 Akiba Porsche 911 demanded attention with its daring wide-body stance and the unique RWB signature style. Capturing this automotive masterpiece through the lens was an exercise in capturing contrast—the raw, mechanical aura of the car against the softness of California's diffused light. Each photo aimed to immortalize the car's aggressive aesthetics while reflecting the tight-knit community that reveres such craftsmanship.",
+        "images": [
+          "images/portfolio/Akiba/Akiba_1.jpg",
+          "images/portfolio/Akiba/Akiba_2.jpg",
+          "images/portfolio/Akiba/Akiba_3.jpg",
+          "images/portfolio/Akiba/Akiba_4.jpg",
+          "images/portfolio/Akiba/Akiba_1.jpg",
+          "images/portfolio/Akiba/Akiba_5.jpg",
+          "images/portfolio/Akiba/Akiba_6.jpg",
+          "images/portfolio/Akiba/Akiba_7.jpg",
+          "images/portfolio/Akiba/Akiba_8.jpg",
+          "images/portfolio/Akiba/Akiba_9.jpg",
+          "images/portfolio/Akiba/Akiba_10.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-photoshop-plain",
+            "name": "Photoshop"
+          }
+        ]
+      },
+      {
+        "title": "Dueling Icons - The 993 RWB and Ferrari 360 Liberty Walk",
+        "startDate": "2019",
+        "description": "Amidst the backdrop of an era known for its bold styles and even bolder personalities, two automotive icons—the Porsche 993 RWB and the Ferrari 360 Liberty Walk—stand side by side, exemplifying the pinnacle of '80s performance reimagined. Both cars, with their staggering stances and wide bodies, are a photographers dream, presenting a juxtaposition of German precision and Italian flair.",
+        "images": [
+          "images/portfolio/80's/80s_2.jpg",
+          "images/portfolio/80's/80s_1.jpg",
+          "images/portfolio/80's/80s_3.jpg",
+          "images/portfolio/80's/80s_4.jpg",
+          "images/portfolio/80's/80s_5.jpg",
+          "images/portfolio/80's/80s_6.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-photoshop-plain",
+            "name": "Photoshop"
+          }
+        ]
+      },
+      {
+        "title": "Shutter Speed: Framing the BMW E36 M3",
+        "startDate": "2019",
+        "description": "The BMW E36 M3, with its eye-catching Estoril Blue finish and muscular stance, made for an imposing subject under the fading light. The task: to capture the car in a way that felt both authentic and fresh. The shoot required a keen understanding of how the M3's curves and contours interact with light, necessitating constant movement to find new perspectives. The resulting photographs highlight the car's racing legacy and road presence, a testament to BMW's engineering and the art of photography itself.",
+        "images": [
+          "images/portfolio/PandemE36/E36_1.jpg",
+          "images/portfolio/PandemE36/E36_2.jpg",
+          "images/portfolio/PandemE36/E36_3.jpg",
+          "images/portfolio/PandemE36/E36_4.jpg",
+          "images/portfolio/PandemE36/E36_5.jpg",
+          "images/portfolio/PandemE36/E36_6.jpg",
+          "images/portfolio/PandemE36/E36_7.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-photoshop-plain",
+            "name": "Photoshop"
           }
         ]
       }
@@ -82,21 +155,37 @@
     "experience": [
       {
         "company": "CarPhysics LLC",
-        "title": "Front-End Developer",
+        "title": "Digital Marketing and Social Media Specialist",
         "years": "10.2019 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Instagram",
+          "Facebook Meta",
+          "TikTok",
+          "Shopify",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Adobe Premier Pro",
+          "Adobe LightRoom",
+          "Adobe AfterEffects"
+        ]
+      },
+      {
+        "company": "School - Code Fellows",
+        "title": "Software Engineer",
+        "years": "05.2023 - Present",
+        "mainTech": [
+          "SAP"
+        ],
+        "technologies": [
+          "Visual Studio Code",
+          "HTML5",
+          "Sass",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS",
+          "React"
         ]
       },
       {

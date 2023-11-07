@@ -31,7 +31,7 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
+	height: 320px;
 	min-height: 450px;
 	width: 100%;
 	background-size: cover;
@@ -202,6 +202,7 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	width: 230px;
 }
 
 .link-href {
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #00b093;
 }
 
 .experience-icon {
@@ -437,4 +438,8 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+.profile-pic {
+    width: 50%;  /* Adjust width as a percentage of the containing element */
+    height: auto; /* Height is adjusted automatically to maintain the aspect ratio */
 }

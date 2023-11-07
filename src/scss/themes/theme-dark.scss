@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #ffffff;
       opacity: 0.8;
    }
 
@@ -33,7 +33,7 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #141414;
       h1 {
          color: white;
       }
@@ -45,10 +45,11 @@ body[data-theme="dark"] {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #343434;
+         width: 230px;
       }
       .card {
-         background: #6d6d6d;
+         background: #343434;
          color: white;
       }
    }
@@ -59,7 +60,7 @@ body[data-theme="dark"] {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #212121;
       }
       .project-title-settings {
          color: white;
@@ -68,13 +69,13 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #6a6969;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #0c0c0c !important;
          color: white;
       }
 
@@ -87,7 +88,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #c10000 !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
