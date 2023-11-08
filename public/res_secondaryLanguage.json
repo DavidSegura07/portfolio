@@ -18,7 +18,7 @@
         "images/portfolio/odd-duck/duck-1.jpg",
         "images/portfolio/odd-duck/duck-2.jpg"
       ],
-      "url": "",
+      "url": "https://davidsegura07.github.io/odd-duck-products/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
@@ -44,7 +44,7 @@
         "images/portfolio/glad-gaming/glad-2.jpg",
         "images/portfolio/glad-gaming/glad-3.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://glad-gaming.github.io/glad-games/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
@@ -69,7 +69,7 @@
         "images/portfolio/pats/cookies-2.jpg",
         "images/portfolio/pats/cookies-3.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://davidsegura07.github.io/cookie-stand-david/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
