@@ -1,206 +1,565 @@
 {
-    "basic_info": {
-      "description_header": "Hi, I'm David Segura. As an aspiring full-stack developer, I continuously refine my craft, focusing on practical application and deep understanding. Everyline of code I write is backed by precision and innovative thinking, ensuring a seamless user experience and streamlined functionality."
-      ,
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi, I'm David Segura. As an aspiring full-stack developer, I continuously refine my craft, focusing on practical application and deep understanding. Everyline of code I write is backed by precision and innovative thinking, ensuring a seamless user experience and streamlined functionality.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Elite Summer Showcase: Carshow",
+      "startDate": "2022-07-02",
+      "description": "The Elite Summer Showcase at Oak Canyon Park, a collaboration between Clean Culture & CarPhysics, brought together 500 diverse cars including Modified JDM, Muscle, Euro, and Exotic models, along with 1200 spectators and 30 vendors. As a key organizer, my role was to promote the show across social platforms, engage with spectators, car participants, vendors, and sponsors through direct messaging, and design promotional flyers. The event featured a range of activities from car awards to live music, creating a memorable day for the automotive community.",
+      "images": [
+        "images/portfolio/elitesummer/flyer-1.jpg",
+        "images/portfolio/elitesummer/flyer-2.jpg",
+        "images/portfolio/elitesummer/flyer-3.jpg",
+        "images/portfolio/elitesummer/flyer-4.jpg",
+        "images/portfolio/elitesummer/layout.jpg",
+        "images/portfolio/elitesummer/elite-1.jpg",
+        "images/portfolio/elitesummer/elite-2.jpg",
+        "images/portfolio/elitesummer/elite-3.jpg",
+        "images/portfolio/elitesummer/elite-4.jpg",
+        "images/portfolio/elitesummer/elite-5.jpg",
+        "images/portfolio/elitesummer/elite-6.jpg",
+        "images/portfolio/elitesummer/elite-7.jpg",
+        "images/portfolio/elitesummer/elite-8.jpg",
+        "images/portfolio/elitesummer/elite-9.jpg",
+        "images/portfolio/elitesummer/elite-10.jpg",
+        "images/portfolio/elitesummer/elite-11.jpg",
+        "images/portfolio/elitesummer/elite-12.jpg",
+        "images/portfolio/elitesummer/elite-13.jpg",
+        "images/portfolio/elitesummer/elite-14.jpg",
+        "images/portfolio/elitesummer/elite-15.jpg",
+        "images/portfolio/elitesummer/elite-16.jpg",
+        "images/portfolio/elitesummer/elite-17.jpg",
+        "images/portfolio/elitesummer/elite-18.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Odd Duck Website",
-        "startDate": "2023",
-        "description": "This app is a product picker for Odd Ducks Inc. Each employee at Odd Ducks will walk into work and pick the product they want to see manufactured next. After 25 employees have picked their preferred product, the marketing team will be able to view the results on a list and a table that will include the number of view and number of votes of each product. The next day, the marketing team can refresh the app and it will save the votes and views from the previous day, while allowing for another 25 rounds of voting.",
-        "images": [
-          "images/portfolio/odd-duck/duck-1.jpg",
-          "images/portfolio/odd-duck/duck-2.jpg"
-        ],
-        "url": "https://davidsegura07.github.io/odd-duck-products/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
-        "title": "Glad Gaming",
-        "startDate": "2023",
-        "description": "This app is a Rock Paper Scissors game with a leaderboard that saves data after each round, and an About Us page. The gameplay will feature multiple opponents with different strategies and gambits, the goal is to get the most wins within a certain number of rounds, and then win against the highest number of opponents in a row.",
-        "images": [
-          "images/portfolio/glad-gaming/glad-1.jpg",
-          "images/portfolio/glad-gaming/glad-4.jpg",
-          "images/portfolio/glad-gaming/glad-2.jpg",
-          "images/portfolio/glad-gaming/glad-3.jpg"
-        ],
-        "url": "https://glad-gaming.github.io/glad-games/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
-        "title": "Salmon Cookies-Website",
-        "startDate": "2023",
-        "description": "Pat's Salmon Cookies is a business that combines a love for sweets with a passion for healthy ecosystems. The main product is a coffee-time confection called Salmon Cookies, which are uniquely shaped like salmon and are enjoyed by both humans and actual salmon.",
-        "images": [
-          "images/portfolio/pats/cookies-1.jpg",
-          "images/portfolio/pats/cookies-2.jpg",
-          "images/portfolio/pats/cookies-3.jpg"
-        ],
-        "url": "https://davidsegura07.github.io/cookie-stand-david/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
-        "title": "In the Frame: The RWB #71 Akiba's Photographic Journey",
-        "startDate": "2020",
-        "description": "Nestled in the urban landscape of Santa Ana, the RWB #71 Akiba Porsche 911 demanded attention with its daring wide-body stance and the unique RWB signature style. Capturing this automotive masterpiece through the lens was an exercise in capturing contrast—the raw, mechanical aura of the car against the softness of California's diffused light. Each photo aimed to immortalize the car's aggressive aesthetics while reflecting the tight-knit community that reveres such craftsmanship.",
-        "images": [
-          "images/portfolio/Akiba/Akiba_1.jpg",
-          "images/portfolio/Akiba/Akiba_2.jpg",
-          "images/portfolio/Akiba/Akiba_3.jpg",
-          "images/portfolio/Akiba/Akiba_4.jpg",
-          "images/portfolio/Akiba/Akiba_1.jpg",
-          "images/portfolio/Akiba/Akiba_5.jpg",
-          "images/portfolio/Akiba/Akiba_6.jpg",
-          "images/portfolio/Akiba/Akiba_7.jpg",
-          "images/portfolio/Akiba/Akiba_8.jpg",
-          "images/portfolio/Akiba/Akiba_9.jpg",
-          "images/portfolio/Akiba/Akiba_10.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-photoshop-plain",
-            "name": "Photoshop"
-          }
-        ]
-      },
-      {
-        "title": "Dueling Icons - The 993 RWB and Ferrari 360 Liberty Walk",
-        "startDate": "2019",
-        "description": "Amidst the backdrop of an era known for its bold styles and even bolder personalities, two automotive icons—the Porsche 993 RWB and the Ferrari 360 Liberty Walk—stand side by side, exemplifying the pinnacle of '80s performance reimagined. Both cars, with their staggering stances and wide bodies, are a photographers dream, presenting a juxtaposition of German precision and Italian flair.",
-        "images": [
-          "images/portfolio/80's/80s_2.jpg",
-          "images/portfolio/80's/80s_1.jpg",
-          "images/portfolio/80's/80s_3.jpg",
-          "images/portfolio/80's/80s_4.jpg",
-          "images/portfolio/80's/80s_5.jpg",
-          "images/portfolio/80's/80s_6.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-photoshop-plain",
-            "name": "Photoshop"
-          }
-        ]
-      },
-      {
-        "title": "Shutter Speed: Framing the BMW E36 M3",
-        "startDate": "2019",
-        "description": "The BMW E36 M3, with its eye-catching Estoril Blue finish and muscular stance, made for an imposing subject under the fading light. The task: to capture the car in a way that felt both authentic and fresh. The shoot required a keen understanding of how the M3's curves and contours interact with light, necessitating constant movement to find new perspectives. The resulting photographs highlight the car's racing legacy and road presence, a testament to BMW's engineering and the art of photography itself.",
-        "images": [
-          "images/portfolio/PandemE36/E36_1.jpg",
-          "images/portfolio/PandemE36/E36_2.jpg",
-          "images/portfolio/PandemE36/E36_3.jpg",
-          "images/portfolio/PandemE36/E36_4.jpg",
-          "images/portfolio/PandemE36/E36_5.jpg",
-          "images/portfolio/PandemE36/E36_6.jpg",
-          "images/portfolio/PandemE36/E36_7.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-photoshop-plain",
-            "name": "Photoshop"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "CarPhysics LLC",
-        "title": "Digital Marketing and Social Media Specialist",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "Instagram",
-          "Facebook Meta",
-          "TikTok",
-          "Shopify",
-          "Adobe Photoshop",
-          "Adobe Illustrator",
-          "Adobe Premier Pro",
-          "Adobe LightRoom",
-          "Adobe AfterEffects"
-        ]
-      },
-      {
-        "company": "School - Code Fellows",
-        "title": "Software Engineer",
-        "years": "05.2023 - Present",
-        "mainTech": [
-          "SAP"
-        ],
-        "technologies": [
-          "Visual Studio Code",
-          "HTML5",
-          "Sass",
-          "JavaScript",
-          "CSS",
-          "React"
-        ]
-      },
-      {
-        "company": "Behr Paint",
-        "title": "Dock Foreman",
-        "years": "12.2013 - 03.2023",
-        "mainTech": [
-          "SAP"
-        ],
-        "technologies": [
-          "Microsoft Office",
-          "Fork Lift",
-          "Rider Jack",
-          "ASAP Data Management"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "All Star Fest Autotron: Carshow",
+      "startDate": "2022-08-07",
+      "description": "The All Star Fest Autotron at Storm Stadium in Lake Elsinore, CA, was a vivid showcase of 500 carefully selected cars, including Modified JDM, Muscle, Euro, and Exotic models, attracting around 1000 spectators and 25 vendors. Hosted by CarPhysics, this event unfolded in the energetic ambiance of both indoor and outdoor settings of the stadium, displaying some of the finest vehicles. As the sole organizer, my responsibilities encompassed the entire spectrum of event management. This included designing all promotional flyers, orchestrating comprehensive marketing campaigns, securing event insurance, obtaining necessary city permits, and coordinating with law enforcement and fire marshals to ensure compliance with safety protocols. My hands-on approach in every aspect of the event, from creative design to logistical planning, ensured a seamless and engaging experience for all attendees.",
+      "images": [
+        "images/portfolio/autotron/flyer-1.jpg"
+        
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Seattle Showcase: Carshow",
+      "startDate": "2022-09-17",
+      "description": "The Seattle Showcase, a collaboration between Clean Culture and CarPhysics, took place at Cheney Stadium in Tacoma, WA. It was a captivating event on a beautiful cloudy Washington day, featuring 350-400 meticulously chosen cars, including Modified JDM, Muscle, Euro, and Exotic models, and drawing around 1000 spectators, along with 15-20 vendors and 4 sponsors. The event's vibrant energy was complemented by a range of activities like Car Limbo, a 2-step exhaust competition, car awards, and live music. My role as an organizer included promoting the show across various social platforms, engaging in direct messaging for outreach to new car participants, vendors, and sponsors. Additionally, I designed promotional flyers for each registered car and managed organic ad campaigns. This event marked our successful first show in Washington, demonstrating our ability to capture and engage the automotive community's spirit.",
+      "images": [
+        "images/portfolio/cheney-stadium/flyer-1.jpg",
+        "images/portfolio/cheney-stadium/sea22-7.jpg",
+        "images/portfolio/cheney-stadium/sea22-5.jpg",
+        "images/portfolio/cheney-stadium/sea22-6.jpg",
+        "images/portfolio/cheney-stadium/sea22-4.jpg",
+        "images/portfolio/cheney-stadium/sea22-3.jpg",
+        "images/portfolio/cheney-stadium/sea22-2.jpg",
+        "images/portfolio/cheney-stadium/sea22-1.jpg",
+        "images/portfolio/cheney-stadium/sea22-8.jpg",
+        "images/portfolio/cheney-stadium/sea22-9.jpg",
+        "images/portfolio/cheney-stadium/sea22-10.jpg",
+        "images/portfolio/cheney-stadium/sea22-11.jpg",
+        "images/portfolio/cheney-stadium/sea22-12.jpg",
+        "images/portfolio/cheney-stadium/sea22-13.jpg",
+        "images/portfolio/cheney-stadium/sea22-14.jpg"
+
+
+
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+          
+        },
+        {
+          "class": "logos:instagram",
+          "name": "Instagram"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "In the Frame: The RWB #71 Akiba's Photographic Journey",
+      "startDate": "2020",
+      "description": "Nestled in the urban landscape of Santa Ana, the RWB #71 Akiba Porsche 911 demanded attention with its daring wide-body stance and the unique RWB signature style. Capturing this automotive masterpiece through the lens was an exercise in capturing contrast—the raw, mechanical aura of the car against the softness of California's diffused light. Each photo aimed to immortalize the car's aggressive aesthetics while reflecting the tight-knit community that reveres such craftsmanship.",
+      "images": [
+        "images/portfolio/Akiba/Akiba_1.jpg",
+        "images/portfolio/Akiba/Akiba_2.jpg",
+        "images/portfolio/Akiba/Akiba_3.jpg",
+        "images/portfolio/Akiba/Akiba_4.jpg",
+        "images/portfolio/Akiba/Akiba_1.jpg",
+        "images/portfolio/Akiba/Akiba_5.jpg",
+        "images/portfolio/Akiba/Akiba_6.jpg",
+        "images/portfolio/Akiba/Akiba_7.jpg",
+        "images/portfolio/Akiba/Akiba_8.jpg",
+        "images/portfolio/Akiba/Akiba_9.jpg",
+        "images/portfolio/Akiba/Akiba_10.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Dueling Icons - The 993 RWB and Ferrari 360 Liberty Walk",
+      "startDate": "2019",
+      "description": "Amidst the backdrop of an era known for its bold styles and even bolder personalities, two automotive icons—the Porsche 993 RWB and the Ferrari 360 Liberty Walk—stand side by side, exemplifying the pinnacle of '80s performance reimagined. Both cars, with their staggering stances and wide bodies, are a photographers dream, presenting a juxtaposition of German precision and Italian flair.",
+      "images": [
+        "images/portfolio/80's/80s_2.jpg",
+        "images/portfolio/80's/80s_1.jpg",
+        "images/portfolio/80's/80s_3.jpg",
+        "images/portfolio/80's/80s_4.jpg",
+        "images/portfolio/80's/80s_5.jpg",
+        "images/portfolio/80's/80s_6.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Shutter Speed: Framing the BMW E36 M3",
+      "startDate": "2019",
+      "description": "The BMW E36 M3, with its eye-catching Estoril Blue finish and muscular stance, made for an imposing subject under the fading light. The task: to capture the car in a way that felt both authentic and fresh. The shoot required a keen understanding of how the M3's curves and contours interact with light, necessitating constant movement to find new perspectives. The resulting photographs highlight the car's racing legacy and road presence, a testament to BMW's engineering and the art of photography itself.",
+      "images": [
+        "images/portfolio/PandemE36/E36_1.jpg",
+        "images/portfolio/PandemE36/E36_2.jpg",
+        "images/portfolio/PandemE36/E36_3.jpg",
+        "images/portfolio/PandemE36/E36_4.jpg",
+        "images/portfolio/PandemE36/E36_5.jpg",
+        "images/portfolio/PandemE36/E36_6.jpg",
+        "images/portfolio/PandemE36/E36_7.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "The Yellow Ferrari 458 Amidst Cloudy Serenity",
+      "startDate": "2019",
+      "description": "Captured on a cloudy morning, the Yellow Ferrari 458 stood boldly in a tranquil field, bordered by a charming white wooden fence. The overcast skies provided a soft, diffused light, wrapping the scene in a dreamlike quality. This bagged marvel, with its vibrant yellow hue, was a stark yet beautiful contrast to the muted tones of the morning. My aim was to showcase the car's sleek design and dynamic presence against this serene, pastoral backdrop, highlighting the interplay of light and shadow that the cloudy ambiance bestowed. The challenge was to convey the car's powerful persona in a setting that whispered of quiet mornings and untouched landscapes. Each photograph was a careful composition of the Ferrari's striking lines against the soft, enveloping light, creating a series of images that captured the essence of elegance and raw power, juxtaposed with the gentle touch of nature.",
+      "images": [
+        "images/portfolio/ferrari458/ferrari458-13.jpg",
+        "images/portfolio/ferrari458/ferrari458-1.jpg",
+        "images/portfolio/ferrari458/ferrari458-2.jpg",
+        "images/portfolio/ferrari458/ferrari458-3.jpg",
+        "images/portfolio/ferrari458/ferrari458-4.jpg",
+        "images/portfolio/ferrari458/ferrari458-5.jpg",
+        "images/portfolio/ferrari458/ferrari458-6.jpg",
+        "images/portfolio/ferrari458/ferrari458-7.jpg",
+        "images/portfolio/ferrari458/ferrari458-8.jpg",
+        "images/portfolio/ferrari458/ferrari458-9.jpg",
+        "images/portfolio/ferrari458/ferrari458-10.jpg",
+        "images/portfolio/ferrari458/ferrari458-11.jpg",
+        "images/portfolio/ferrari458/ferrari458-12.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "The Dual-Toned Lamborghini Huracan",
+      "startDate": "2019",
+      "description": "In a striking display of contrast, this Lamborghini Huracan commands attention with its unique half-black, half-black bandana paint job, seamlessly fading in the middle. Set against a backdrop that accentuates its bold aesthetic, the car's bagged stance on BBS wheels epitomizes modern automotive design. During this shoot, my focus was on capturing the essence of the Huracan's dual-toned theme, highlighting how light interacts with the contrasting colors and textures. The challenge was to present the car's aggressive lines and refined details in a way that resonates with its fierce yet stylish character. Each image aims to reflect the juxtaposition of the Huracan's powerful performance and its striking visual appeal, creating a captivating narrative of automotive artistry.",
+      "images": [
+        "images/portfolio/huracan/huracan-1.jpg",
+        "images/portfolio/huracan/huracan-2.jpg",
+        "images/portfolio/huracan/huracan-3.jpg",
+        "images/portfolio/huracan/huracan-4.jpg",
+        "images/portfolio/huracan/huracan-5.jpg",
+        "images/portfolio/huracan/huracan-6.jpg",
+        "images/portfolio/huracan/huracan-7.jpg",
+        "images/portfolio/huracan/huracan-8.jpg",
+        "images/portfolio/huracan/huracan-9.jpg",
+        "images/portfolio/huracan/huracan-10.jpg",
+        "images/portfolio/huracan/huracan-11.jpg",
+        "images/portfolio/huracan/huracan-12.jpg",
+        "images/portfolio/huracan/huracan-13.jpg",
+        "images/portfolio/huracan/huracan-14.jpg",
+        "images/portfolio/huracan/huracan-15.jpg",
+        "images/portfolio/huracan/huracan-16.jpg",
+        "images/portfolio/huracan/huracan-17.jpg",
+        "images/portfolio/huracan/huracan-18.jpg",
+        "images/portfolio/huracan/huracan-19.jpg",
+        "images/portfolio/huracan/huracan-20.jpg",
+        "images/portfolio/huracan/huracan-21.jpg",
+        "images/portfolio/huracan/huracan-22.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "The Infamous Red NSX",
+      "startDate": "2018",
+      "description": "The Lady in Red: This iconic Acura NSX, swathed in a vibrant red hue, is more than a car; it's a moving piece of art. Its blend of classic lines and modern modifications stands out, creating an imposing presence. In this photoshoot, the challenge was to capture the essence of the car's renowned status within the automotive community, highlighting its elegant yet audacious character. My focus was on the details that set the NSX apart - its sleek bodywork and the intricate modifications that pay homage to its heritage while embracing modernity. The resulting images are a narrative of the NSX's journey, reflecting the passion and precision behind its conception and the admiration it commands on the road.",
+      "images": [
+        "images/portfolio/nsx/nsx-7.jpg",
+        "images/portfolio/nsx/nsx-2.jpg",
+        "images/portfolio/nsx/nsx-3.jpg",
+        "images/portfolio/nsx/nsx-4.jpg",
+        "images/portfolio/nsx/nsx-5.jpg",
+        "images/portfolio/nsx/nsx-6.jpg",
+        "images/portfolio/nsx/nsx-1.jpg",
+        "images/portfolio/nsx/nsx-8.jpg",
+        "images/portfolio/nsx/nsx-9.jpg",
+        "images/portfolio/nsx/nsx-10.jpg",
+        "images/portfolio/nsx/nsx-11.jpg",
+        "images/portfolio/nsx/nsx-12.jpg",
+        "images/portfolio/nsx/nsx-13.jpg",
+        "images/portfolio/nsx/nsx-14.jpg",
+        "images/portfolio/nsx/nsx-15.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Liberty Walk Maserati on Savini Wheels",
+      "startDate": "2018",
+      "description": "In the realm of luxury and performance, this Maserati redefines boundaries with its striking Liberty Walk kit and dazzling Savini wheels. The shoot revolved around the car's chrome rose gold finish, a hue that effortlessly marries opulence with cutting-edge style. The goal was to showcase the harmony between the Maserati's aggressive styling and the intricate details of the Liberty Walk bodywork and Savini wheels. Capturing the interplay of light on the chrome surface, each image emphasizes the car's dynamic lines and the bold statement it makes. This photographic narrative not only highlights the car's physical beauty but also tells a story of innovation and audacious design, reflecting the essence of both the Maserati brand and the creative vision behind the Liberty Walk and Savini collaboration.",
+      "images": [
+        "images/portfolio/maserati/maserati-1.jpg",
+        "images/portfolio/maserati/maserati-2.jpg",
+        "images/portfolio/maserati/maserati-3.jpg",
+        "images/portfolio/maserati/maserati-4.jpg",
+        "images/portfolio/maserati/maserati-5.jpg",
+        "images/portfolio/maserati/maserati-6.jpg",
+        "images/portfolio/maserati/maserati-1.jpg",
+        "images/portfolio/maserati/maserati-8.jpg",
+        "images/portfolio/maserati/maserati-9.jpg",
+        "images/portfolio/maserati/maserati-10.jpg",
+        "images/portfolio/maserati/maserati-11.jpg",
+        "images/portfolio/maserati/maserati-12.jpg",
+        "images/portfolio/maserati/maserati-13.jpg",
+        "images/portfolio/maserati/maserati-14.jpg",
+        "images/portfolio/maserati/maserati-15.jpg",
+        "images/portfolio/maserati/maserati-16.jpg",
+        "images/portfolio/maserati/maserati-17.jpg",
+        "images/portfolio/maserati/maserati-18.jpg",
+        "images/portfolio/maserati/maserati-19.jpg",
+        "images/portfolio/maserati/maserati-20.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "The S14 Kouki with Work VS-XX Wheels",
+      "startDate": "2019",
+      "description": "In a dance of light and shadow, the Nissan 240SX S14 Kouki emerged as a testament to street elegance. This photography session was all about showcasing the car's raw, unfiltered character. With its sharp lines and the deep luster of the Work VS-XX wheels, the Kouki stood out as a symbol of the tuner world's creativity and ingenuity. The goal was to frame the car not just as a piece of engineering, but as a canvas of personal expression, capturing its interaction with the urban landscape. The resulting images are a blend of grit and grace, highlighting the Kouki's silhouette against the stark cityscape. It was a narrative about the beauty in simplicity, the car's quiet yet bold statement in the world of automotive tuning.",
+      "images": [
+        "images/portfolio/s14/s14-10.jpg",
+        "images/portfolio/s14/s14-2.jpg",
+        "images/portfolio/s14/s14-3.jpg",
+        "images/portfolio/s14/s14-4.jpg",
+        "images/portfolio/s14/s14-5.jpg",
+        "images/portfolio/s14/s14-6.jpg",
+        "images/portfolio/s14/s14-1.jpg",
+        "images/portfolio/s14/s14-8.jpg",
+        "images/portfolio/s14/s14-9.jpg",
+        "images/portfolio/s14/s14-1.jpg",
+        "images/portfolio/s14/s14-11.jpg",
+        "images/portfolio/s14/s14-12.jpg",
+        "images/portfolio/s14/s14-13.jpg",
+        "images/portfolio/s14/s14-14.jpg",
+        "images/portfolio/s14/s14-15.jpg",
+        "images/portfolio/s14/s14-16.jpg",
+        "images/portfolio/s14/s14-17.jpg",
+        "images/portfolio/s14/s14-18.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "The Blue Porsche 911 991's Photographic Journey",
+      "startDate": "2018",
+      "description": "In the dynamic urban setting, the blue Porsche 911 991 bagged embodied a seamless fusion of sophistication and street style. This photography project aimed to showcase the car's sleek design and tailored stance amidst the vibrant city environment. The Porsche, with its polished blue exterior and distinctive bagged profile, offered a striking contrast to the urban textures and rhythms. Capturing the interplay of light and shadow, the shoot emphasized the car's fluid lines and powerful aesthetics. Each frame was a testament to the 911's enduring allure, presenting it as a symbol of modern elegance in the throbbing heart of the city. The challenge and triumph of this project lay in illustrating how a classic icon like the Porsche 911 can still command attention and admiration in a rapidly evolving world.",
+      "images": [
+        "images/portfolio/porsche991/porsche991-10.jpg",
+        "images/portfolio/porsche991/porsche991-2.jpg",
+        "images/portfolio/porsche991/porsche991-3.jpg",
+        "images/portfolio/porsche991/porsche991-4.jpg",
+        "images/portfolio/porsche991/porsche991-5.jpg",
+        "images/portfolio/porsche991/porsche991-6.jpg",
+        "images/portfolio/porsche991/porsche991-1.jpg",
+        "images/portfolio/porsche991/porsche991-8.jpg",
+        "images/portfolio/porsche991/porsche991-9.jpg",
+        "images/portfolio/porsche991/porsche991-1.jpg",
+        "images/portfolio/porsche991/porsche991-11.jpg",
+        "images/portfolio/porsche991/porsche991-12.jpg",
+        "images/portfolio/porsche991/porsche991-13.jpg",
+        "images/portfolio/porsche991/porsche991-14.jpg",
+        "images/portfolio/porsche991/porsche991-15.jpg",
+        "images/portfolio/porsche991/porsche991-16.jpg",
+        "images/portfolio/porsche991/porsche991-17.jpg",
+        "images/portfolio/porsche991/porsche991-18.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Capturing the 1987 BMW 635CSi",
+      "startDate": "2019",
+      "description": "The 1987 BMW 635CSi, a paragon of classic automotive design, presented a unique opportunity to capture a piece of motoring history. During the shoot, the BMW's sleek lines and iconic silhouette were accentuated by the natural lighting, creating a perfect blend of vintage charm and contemporary appeal. The focus was on highlighting the car's elegant yet sporty demeanor, showcasing the distinctive features that set this model apart from its contemporaries. Photographing this BMW was not just about framing a car; it was about capturing a legacy. Each image sought to convey the 635CSi's enduring appeal, a testament to BMW's timeless design and engineering excellence. The shoot emphasized the car's refined grace and the sense of nostalgia it evokes, making it not just a subject of photography but a piece of art that resonates with car enthusiasts and collectors alike.",
+      "images": [
+        "images/portfolio/bmwe24/e24-12.jpg",
+        "images/portfolio/bmwe24/e24-2.jpg",
+        "images/portfolio/bmwe24/e24-3.jpg",
+        "images/portfolio/bmwe24/e24-4.jpg",
+        "images/portfolio/bmwe24/e24-5.jpg",
+        "images/portfolio/bmwe24/e24-6.jpg",
+        "images/portfolio/bmwe24/e24-1.jpg",
+        "images/portfolio/bmwe24/e24-8.jpg",
+        "images/portfolio/bmwe24/e24-9.jpg",
+        "images/portfolio/bmwe24/e24-1.jpg",
+        "images/portfolio/bmwe24/e24-11.jpg",
+        "images/portfolio/bmwe24/e24-1.jpg",
+        "images/portfolio/bmwe24/e24-13.jpg",
+        "images/portfolio/bmwe24/e24-14.jpg",
+        "images/portfolio/bmwe24/e24-15.jpg",
+        "images/portfolio/bmwe24/e24-16.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "The Red Supra Mk4 in Downtown LA",
+      "startDate": "2018",
+      "description": "In the heart of Downtown Los Angeles, a red Supra Mk4 became an integral part of the urban tapestry, juxtaposed against a vibrant graffiti backdrop and stark concrete structures. This photoshoot aimed to fuse the raw energy of street art with the polished aesthetics of the Supra, known for its legacy in street racing culture. The striking red of the car contrasted beautifully with the colorful graffiti, creating a visual dialogue between art forms. The bagged stance and stylish Work wheels of the Supra added an extra edge to its presence, harmonizing with the bold and rebellious spirit of the graffiti. The concrete surroundings provided a neutral yet textured canvas, emphasizing the car's sleek lines and vibrant color.",
+      "images": [
+        "images/portfolio/supra/supra-1.jpg",
+        "images/portfolio/supra/supra-2.jpg",
+        "images/portfolio/supra/supra-3.jpg",
+        "images/portfolio/supra/supra-4.jpg",
+        "images/portfolio/supra/supra-6.jpg",
+        "images/portfolio/supra/supra-1.jpg",
+        "images/portfolio/supra/supra-8.jpg",
+        "images/portfolio/supra/supra-9.jpg",
+        "images/portfolio/supra/supra-10.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Burgundy and Yellow RWB Porsches",
+      "startDate": "2018",
+      "description": "A duo of RWB Porsches, one in deep burgundy and the other in bright yellow, presented a striking contrast in a carefully orchestrated photoshoot. These vehicles, renowned for their wide-bodied stance and meticulous RAUH-Welt Begriff modifications, offered a visual feast of automotive excellence. The burgundy RWB, with its deep, wine-like hue, exuded a sense of classic elegance, while the vibrant yellow RWB shone with an energy that was almost electric. The shoot was about more than just capturing two stanced, bagged cars; it was about telling a story of contrasts and complements. The location was chosen to highlight the unique features of each car, with the lighting carefully managed to accentuate their distinct colors. This pairing of RWBs created a dynamic scene that celebrated the artistry of automotive modification and the unique character of each vehicle.",
+      "images": [
+        "images/portfolio/rwb-la/rwb_1.jpg",
+        "images/portfolio/rwb-la/rwb_2.jpg",
+        "images/portfolio/rwb-la/rwb_3.jpg",
+        "images/portfolio/rwb-la/rwb_4.jpg",
+        "images/portfolio/rwb-la/rwb_6.jpg",
+        "images/portfolio/rwb-la/rwb_1.jpg",
+        "images/portfolio/rwb-la/rwb_8.jpg",
+        "images/portfolio/rwb-la/rwb_9.jpg",
+        "images/portfolio/rwb-la/rwb_10.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Odd Duck Website",
+      "startDate": "2023",
+      "description": "This app is a product picker for Odd Ducks Inc. Each employee at Odd Ducks will walk into work and pick the product they want to see manufactured next. After 25 employees have picked their preferred product, the marketing team will be able to view the results on a list and a table that will include the number of view and number of votes of each product. The next day, the marketing team can refresh the app and it will save the votes and views from the previous day, while allowing for another 25 rounds of voting.",
+      "images": [
+        "images/portfolio/odd-duck/duck-1.jpg",
+        "images/portfolio/odd-duck/duck-2.jpg"
+      ],
+      "url": "https://davidsegura07.github.io/odd-duck-products/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Glad Gaming- Website",
+      "startDate": "2023",
+      "description": "This app is a Rock Paper Scissors game with a leaderboard that saves data after each round, and an About Us page. The gameplay will feature multiple opponents with different strategies and gambits, the goal is to get the most wins within a certain number of rounds, and then win against the highest number of opponents in a row.",
+      "images": [
+        "images/portfolio/glad-gaming/glad-1.jpg",
+        "images/portfolio/glad-gaming/glad-4.jpg",
+        "images/portfolio/glad-gaming/glad-2.jpg",
+        "images/portfolio/glad-gaming/glad-3.jpg"
+      ],
+      "url": "https://glad-gaming.github.io/glad-games/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies-Website",
+      "startDate": "2023",
+      "description": "Pat's Salmon Cookies is a business that combines a love for sweets with a passion for healthy ecosystems. The main product is a coffee-time confection called Salmon Cookies, which are uniquely shaped like salmon and are enjoyed by both humans and actual salmon.",
+      "images": [
+        "images/portfolio/pats/cookies-1.jpg",
+        "images/portfolio/pats/cookies-2.jpg",
+        "images/portfolio/pats/cookies-3.jpg"
+      ],
+      "url": "https://davidsegura07.github.io/cookie-stand-david/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "CarPhysics LLC",
+      "title": "Digital Marketing and Social Media Specialist",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "Instagram",
+        "Facebook Meta",
+        "TikTok",
+        "Shopify",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Premier Pro",
+        "Adobe LightRoom",
+        "Adobe AfterEffects"
+      ]
+    },
+    {
+      "company": "School - Code Fellows",
+      "title": "Software Engineer",
+      "years": "05.2023 - Present",
+      "mainTech": [
+        "SAP"
+      ],
+      "technologies": [
+        "Visual Studio Code",
+        "HTML5",
+        "Sass",
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "company": "Behr Paint",
+      "title": "Dock Foreman",
+      "years": "12.2013 - 03.2023",
+      "mainTech": [
+        "SAP"
+      ],
+      "technologies": [
+        "Microsoft Office",
+        "Fork Lift",
+        "Rider Jack",
+        "ASAP Data Management"
+      ]
+    }
+  ]
+}

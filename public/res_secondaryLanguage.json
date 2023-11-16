@@ -11,73 +11,92 @@
   },
   "projects": [
     {
-      "title": "Odd Duck Website",
-      "startDate": "2023",
-      "description": "Esta aplicación es un selector de productos para Odd Ducks Inc. Cada empleado de Odd Ducks llegará al trabajo y elegirá el producto que quieren ver fabricado a continuación. Después de que 25 empleados hayan elegido su producto preferido, el equipo de marketing podrá ver los resultados en una lista y una tabla que incluirá el número de visualizaciones y el número de votos de cada producto. Al día siguiente, el equipo de marketing puede actualizar la aplicación y esta guardará los votos y visualizaciones del día anterior, mientras permite otros 25 ciclos de votación.",
+      "title": "Elite Summer Showcase: Exhibición de Autos",
+"startDate": "02-07-2022",
+"description": "La Exhibición de Verano Elite en Oak Canyon Park, una colaboración entre Clean Culture y CarPhysics, reunió a 500 autos diversos incluyendo modelos JDM modificados, Muscle, Euro y Exóticos, junto con 1200 espectadores y 30 vendedores. Como organizador clave, mi rol fue promocionar el evento en plataformas sociales, interactuar con espectadores, participantes de autos, vendedores y patrocinadores a través de mensajes directos, y diseñar folletos promocionales. El evento contó con una variedad de actividades desde premios de autos hasta música en vivo, creando un día memorable para la comunidad automotriz.",
       "images": [
-        "images/portfolio/odd-duck/duck-1.jpg",
-        "images/portfolio/odd-duck/duck-2.jpg"
+        "images/portfolio/elitesummer/flyer-1.jpg",
+        "images/portfolio/elitesummer/flyer-2.jpg",
+        "images/portfolio/elitesummer/flyer-3.jpg",
+        "images/portfolio/elitesummer/flyer-4.jpg",
+        "images/portfolio/elitesummer/layout.jpg",
+        "images/portfolio/elitesummer/elite-1.jpg",
+        "images/portfolio/elitesummer/elite-2.jpg",
+        "images/portfolio/elitesummer/elite-3.jpg",
+        "images/portfolio/elitesummer/elite-4.jpg",
+        "images/portfolio/elitesummer/elite-5.jpg",
+        "images/portfolio/elitesummer/elite-6.jpg",
+        "images/portfolio/elitesummer/elite-7.jpg",
+        "images/portfolio/elitesummer/elite-8.jpg",
+        "images/portfolio/elitesummer/elite-9.jpg",
+        "images/portfolio/elitesummer/elite-10.jpg",
+        "images/portfolio/elitesummer/elite-11.jpg",
+        "images/portfolio/elitesummer/elite-12.jpg",
+        "images/portfolio/elitesummer/elite-13.jpg",
+        "images/portfolio/elitesummer/elite-14.jpg",
+        "images/portfolio/elitesummer/elite-15.jpg",
+        "images/portfolio/elitesummer/elite-16.jpg",
+        "images/portfolio/elitesummer/elite-17.jpg",
+        "images/portfolio/elitesummer/elite-18.jpg"
       ],
-      "url": "https://davidsegura07.github.io/odd-duck-products/",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
         }
       ]
     },
     {
-      "title": "Glad Gaming",
-      "startDate": "2023",
-      "description": "Esta aplicación es un juego de Piedra Papel o Tijera con una tabla de clasificación que guarda los datos después de cada ronda y una página de Acerca de Nosotros. El juego contará con múltiples oponentes con diferentes estrategias y tácticas, el objetivo es obtener la mayor cantidad de victorias dentro de un cierto número de rondas y luego ganar contra el mayor número de oponentes seguidos.",
+      "title": "All Star Fest Autotron: Exhibición de Autos",
+"startDate": "07-08-2022",
+"description": "El All Star Fest Autotron en el Estadio Storm en Lake Elsinore, CA, fue una vívida exhibición de 500 autos cuidadosamente seleccionados, incluyendo modelos JDM modificados, Muscle, Euro y Exóticos, atrayendo a alrededor de 1000 espectadores y 25 vendedores. Organizado por CarPhysics, este evento se desarrolló en el ambiente enérgico de los espacios interiores y exteriores del estadio, mostrando algunos de los vehículos más finos. Como único organizador, mis responsabilidades abarcaron todo el espectro de la gestión del evento. Esto incluyó diseñar todos los folletos promocionales, orquestar campañas de marketing integrales, asegurar el seguro del evento, obtener los permisos necesarios de la ciudad y coordinar con la policía y los bomberos para garantizar el cumplimiento de los protocolos de seguridad. Mi enfoque práctico en cada aspecto del evento, desde el diseño creativo hasta la planificación logística, aseguró una experiencia fluida y atractiva para todos los asistentes.",
       "images": [
-        "images/portfolio/glad-gaming/glad-1.jpg",
-        "images/portfolio/glad-gaming/glad-4.jpg",
-        "images/portfolio/glad-gaming/glad-2.jpg",
-        "images/portfolio/glad-gaming/glad-3.jpg"
+        "images/portfolio/autotron/flyer-1.jpg"
+        
       ],
-      "url": "https://glad-gaming.github.io/glad-games/",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
         }
       ]
     },
     {
-      "title": "Salmon Cookies",
-      "startDate": "2023",
-      "description": "Pat's Salmon Cookies es un negocio que combina el amor por los dulces con la pasión por los ecosistemas saludables. El producto principal es una golosina para la hora del café llamada Salmon Cookies, que tienen una forma única de salmón y son disfrutadas tanto por humanos como por salmónes reales.",
+      "title": "Seattle Showcase: Exhibición de Autos",
+"startDate": "17-09-2022",
+"description": "El Seattle Showcase, una colaboración entre Clean Culture y CarPhysics, se llevó a cabo en el Cheney Stadium en Tacoma, WA. Fue un evento cautivador en un hermoso día nublado de Washington, presentando 350-400 autos meticulosamente elegidos, incluyendo modelos JDM modificados, Muscle, Euro y Exóticos, y atrayendo alrededor de 1000 espectadores, junto con 15-20 vendedores y 4 patrocinadores. La vibrante energía del evento se complementó con una variedad de actividades como Car Limbo, una competición de escape 2-step, premios de autos y música en vivo. Mi rol como organizador incluyó promocionar el evento en diversas plataformas sociales, participar en mensajes directos para llegar a nuevos participantes de autos, vendedores y patrocinadores. Además, diseñé folletos promocionales para cada auto registrado y gestioné campañas de anuncios orgánicos. Este evento marcó nuestro primer show exitoso en Washington, demostrando nuestra capacidad para capturar y atraer el espíritu de la comunidad automotriz.",
       "images": [
-        "images/portfolio/pats/cookies-1.jpg",
-        "images/portfolio/pats/cookies-2.jpg",
-        "images/portfolio/pats/cookies-3.jpg"
+        "images/portfolio/cheney-stadium/flyer-1.jpg",
+        "images/portfolio/cheney-stadium/sea22-7.jpg",
+        "images/portfolio/cheney-stadium/sea22-5.jpg",
+        "images/portfolio/cheney-stadium/sea22-6.jpg",
+        "images/portfolio/cheney-stadium/sea22-4.jpg",
+        "images/portfolio/cheney-stadium/sea22-3.jpg",
+        "images/portfolio/cheney-stadium/sea22-2.jpg",
+        "images/portfolio/cheney-stadium/sea22-1.jpg",
+        "images/portfolio/cheney-stadium/sea22-8.jpg",
+        "images/portfolio/cheney-stadium/sea22-9.jpg",
+        "images/portfolio/cheney-stadium/sea22-10.jpg",
+        "images/portfolio/cheney-stadium/sea22-11.jpg",
+        "images/portfolio/cheney-stadium/sea22-12.jpg",
+        "images/portfolio/cheney-stadium/sea22-13.jpg",
+        "images/portfolio/cheney-stadium/sea22-14.jpg"
+
+
+
       ],
-      "url": "https://davidsegura07.github.io/cookie-stand-david/",
+      "url": "",
       "technologies": [
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+          
         },
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
+          "class": "logos:instagram",
+          "name": "Instagram"
         },
         {
           "class": "devicon-css3-plain",
@@ -148,6 +167,347 @@
         {
           "class": "devicon-photoshop-plain",
           "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "El Ferrari 458 Amarillo en la Serenidad Nublada",
+"startDate": "2019",
+"description": "Capturado en una mañana nublada, el Ferrari 458 amarillo se destacaba audazmente en un campo tranquilo, rodeado por una encantadora valla de madera blanca. El cielo nublado proporcionaba una luz suave y difusa, envolviendo la escena en una calidad onírica. Esta maravilla con suspensión neumática, con su vibrante tono amarillo, era un contraste llamativo pero hermoso con los tonos apagados de la mañana. Mi objetivo era mostrar el diseño elegante y la presencia dinámica del coche contra este sereno telón de fondo pastoral, destacando el juego de luz y sombra que otorgaba el ambiente nublado. El desafío era transmitir la poderosa personalidad del coche en un entorno que susurraba mañanas tranquilas y paisajes intocados. Cada fotografía era una composición cuidadosa de las líneas llamativas del Ferrari contra la luz suave y envolvente, creando una serie de imágenes que capturaban la esencia de la elegancia y el poder en bruto, yuxtapuestos con el suave toque de la naturaleza.",
+      "images": [
+        "images/portfolio/ferrari458/ferrari458-13.jpg",
+        "images/portfolio/ferrari458/ferrari458-1.jpg",
+        "images/portfolio/ferrari458/ferrari458-2.jpg",
+        "images/portfolio/ferrari458/ferrari458-3.jpg",
+        "images/portfolio/ferrari458/ferrari458-4.jpg",
+        "images/portfolio/ferrari458/ferrari458-5.jpg",
+        "images/portfolio/ferrari458/ferrari458-6.jpg",
+        "images/portfolio/ferrari458/ferrari458-7.jpg",
+        "images/portfolio/ferrari458/ferrari458-8.jpg",
+        "images/portfolio/ferrari458/ferrari458-9.jpg",
+        "images/portfolio/ferrari458/ferrari458-10.jpg",
+        "images/portfolio/ferrari458/ferrari458-11.jpg",
+        "images/portfolio/ferrari458/ferrari458-12.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "El Lamborghini Huracan Bicolor",
+"startDate": "2019",
+"description": "En una llamativa muestra de contraste, este Lamborghini Huracan capta la atención con su exclusiva pintura de dos tonos, mitad negro y mitad estampado de bandana negra, desvaneciéndose sin problemas en el medio. Ambientado contra un fondo que acentúa su estética audaz, la postura del coche con suspensión neumática sobre ruedas BBS es el epítome del diseño automotriz moderno. Durante esta sesión fotográfica, mi enfoque estuvo en capturar la esencia del tema bicolor del Huracan, destacando cómo la luz interactúa con los colores y texturas contrastantes. El desafío era presentar las líneas agresivas y los detalles refinados del coche de una manera que resuene con su carácter feroz pero elegante. Cada imagen busca reflejar la yuxtaposición entre el potente rendimiento del Huracan y su llamativo atractivo visual, creando una narrativa cautivadora de la maestría automotriz.",
+      "images": [
+        "images/portfolio/huracan/huracan-1.jpg",
+        "images/portfolio/huracan/huracan-2.jpg",
+        "images/portfolio/huracan/huracan-3.jpg",
+        "images/portfolio/huracan/huracan-4.jpg",
+        "images/portfolio/huracan/huracan-5.jpg",
+        "images/portfolio/huracan/huracan-6.jpg",
+        "images/portfolio/huracan/huracan-7.jpg",
+        "images/portfolio/huracan/huracan-8.jpg",
+        "images/portfolio/huracan/huracan-9.jpg",
+        "images/portfolio/huracan/huracan-10.jpg",
+        "images/portfolio/huracan/huracan-11.jpg",
+        "images/portfolio/huracan/huracan-12.jpg",
+        "images/portfolio/huracan/huracan-13.jpg",
+        "images/portfolio/huracan/huracan-14.jpg",
+        "images/portfolio/huracan/huracan-15.jpg",
+        "images/portfolio/huracan/huracan-16.jpg",
+        "images/portfolio/huracan/huracan-17.jpg",
+        "images/portfolio/huracan/huracan-18.jpg",
+        "images/portfolio/huracan/huracan-19.jpg",
+        "images/portfolio/huracan/huracan-20.jpg",
+        "images/portfolio/huracan/huracan-21.jpg",
+        "images/portfolio/huracan/huracan-22.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "El Infame NSX Rojo",
+"startDate": "2018",
+"description": "La Dama de Rojo: Este icónico Acura NSX, envuelto en un vibrante tono rojo, es más que un coche; es una obra de arte en movimiento. Su mezcla de líneas clásicas y modificaciones modernas destaca, creando una presencia imponente. En esta sesión fotográfica, el desafío era capturar la esencia del estatus renombrado del coche dentro de la comunidad automotriz, resaltando su carácter elegante pero audaz. Mi enfoque estuvo en los detalles que diferencian al NSX: su elegante carrocería y las modificaciones intrincadas que rinden homenaje a su herencia a la vez que abrazan la modernidad. Las imágenes resultantes son un relato del viaje del NSX, reflejando la pasión y precisión detrás de su concepción y la admiración que comanda en la carretera.",
+      "images": [
+        "images/portfolio/nsx/nsx-7.jpg",
+        "images/portfolio/nsx/nsx-2.jpg",
+        "images/portfolio/nsx/nsx-3.jpg",
+        "images/portfolio/nsx/nsx-4.jpg",
+        "images/portfolio/nsx/nsx-5.jpg",
+        "images/portfolio/nsx/nsx-6.jpg",
+        "images/portfolio/nsx/nsx-1.jpg",
+        "images/portfolio/nsx/nsx-8.jpg",
+        "images/portfolio/nsx/nsx-9.jpg",
+        "images/portfolio/nsx/nsx-10.jpg",
+        "images/portfolio/nsx/nsx-11.jpg",
+        "images/portfolio/nsx/nsx-12.jpg",
+        "images/portfolio/nsx/nsx-13.jpg",
+        "images/portfolio/nsx/nsx-14.jpg",
+        "images/portfolio/nsx/nsx-15.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Maserati con Kit de Liberty Walk en Ruedas Savini",
+"startDate": "2018",
+"description": "En el ámbito del lujo y el rendimiento, este Maserati redefine los límites con su llamativo kit de Liberty Walk y deslumbrantes ruedas Savini. La sesión fotográfica se centró en el acabado del coche en cromo oro rosa, un tono que une sin esfuerzo la opulencia con un estilo vanguardista. El objetivo era mostrar la armonía entre el agresivo estilo del Maserati y los intrincados detalles de la carrocería de Liberty Walk y las ruedas Savini. Capturando el juego de luz en la superficie de cromo, cada imagen enfatiza las líneas dinámicas del coche y la audaz declaración que hace. Esta narrativa fotográfica no solo destaca la belleza física del coche, sino que también cuenta una historia de innovación y diseño audaz, reflejando la esencia tanto de la marca Maserati como de la visión creativa detrás de la colaboración de Liberty Walk y Savini.",
+      "images": [
+        "images/portfolio/maserati/maserati-1.jpg",
+        "images/portfolio/maserati/maserati-2.jpg",
+        "images/portfolio/maserati/maserati-3.jpg",
+        "images/portfolio/maserati/maserati-4.jpg",
+        "images/portfolio/maserati/maserati-5.jpg",
+        "images/portfolio/maserati/maserati-6.jpg",
+        "images/portfolio/maserati/maserati-1.jpg",
+        "images/portfolio/maserati/maserati-8.jpg",
+        "images/portfolio/maserati/maserati-9.jpg",
+        "images/portfolio/maserati/maserati-10.jpg",
+        "images/portfolio/maserati/maserati-11.jpg",
+        "images/portfolio/maserati/maserati-12.jpg",
+        "images/portfolio/maserati/maserati-13.jpg",
+        "images/portfolio/maserati/maserati-14.jpg",
+        "images/portfolio/maserati/maserati-15.jpg",
+        "images/portfolio/maserati/maserati-16.jpg",
+        "images/portfolio/maserati/maserati-17.jpg",
+        "images/portfolio/maserati/maserati-18.jpg",
+        "images/portfolio/maserati/maserati-19.jpg",
+        "images/portfolio/maserati/maserati-20.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "El S14 Kouki con Ruedas Work VS-XX",
+      "startDate": "2019",
+      "description": "En un baile de luz y sombra, el Nissan 240SX S14 Kouki surgió como un testimonio de elegancia callejera. Esta sesión fotográfica se trató de mostrar el carácter crudo y sin filtros del coche. Con sus líneas nítidas y el profundo lustre de las ruedas Work VS-XX, el Kouki se destacó como un símbolo de la creatividad y la ingeniosidad del mundo de los tuners. El objetivo era enmarcar el coche no solo como una pieza de ingeniería, sino como un lienzo de expresión personal, capturando su interacción con el paisaje urbano. Las imágenes resultantes son una mezcla de tenacidad y gracia, resaltando la silueta del Kouki contra el marcado paisaje urbano. Fue una narrativa sobre la belleza en la simplicidad, la declaración tranquila pero audaz del coche en el mundo del tuning automotriz.",
+      "images": [
+        "images/portfolio/s14/s14-10.jpg",
+        "images/portfolio/s14/s14-2.jpg",
+        "images/portfolio/s14/s14-3.jpg",
+        "images/portfolio/s14/s14-4.jpg",
+        "images/portfolio/s14/s14-5.jpg",
+        "images/portfolio/s14/s14-6.jpg",
+        "images/portfolio/s14/s14-1.jpg",
+        "images/portfolio/s14/s14-8.jpg",
+        "images/portfolio/s14/s14-9.jpg",
+        "images/portfolio/s14/s14-1.jpg",
+        "images/portfolio/s14/s14-11.jpg",
+        "images/portfolio/s14/s14-12.jpg",
+        "images/portfolio/s14/s14-13.jpg",
+        "images/portfolio/s14/s14-14.jpg",
+        "images/portfolio/s14/s14-15.jpg",
+        "images/portfolio/s14/s14-16.jpg",
+        "images/portfolio/s14/s14-17.jpg",
+        "images/portfolio/s14/s14-18.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "El Viaje Fotográfico del Porsche 911 991 Azul",
+"startDate": "2018",
+"description": "En el dinámico entorno urbano, el Porsche 911 991 azul con suspensión neumática encarnó una fusión impecable de sofisticación y estilo callejero. Este proyecto fotográfico tenía como objetivo mostrar el elegante diseño y la postura a medida del coche en medio del vibrante ambiente de la ciudad. El Porsche, con su exterior azul pulido y perfil distintivo con suspensión neumática, ofrecía un marcado contraste con las texturas y ritmos urbanos. Capturando el juego de luz y sombra, la sesión enfatizó las líneas fluidas y la poderosa estética del coche. Cada imagen era un testimonio del encanto perdurable del 911, presentándolo como un símbolo de elegancia moderna en el corazón palpitante de la ciudad. El desafío y triunfo de este proyecto residía en ilustrar cómo un icono clásico como el Porsche 911 todavía puede comandar atención y admiración en un mundo en rápida evolución.",
+      "images": [
+        "images/portfolio/porsche991/porsche991-10.jpg",
+        "images/portfolio/porsche991/porsche991-2.jpg",
+        "images/portfolio/porsche991/porsche991-3.jpg",
+        "images/portfolio/porsche991/porsche991-4.jpg",
+        "images/portfolio/porsche991/porsche991-5.jpg",
+        "images/portfolio/porsche991/porsche991-6.jpg",
+        "images/portfolio/porsche991/porsche991-1.jpg",
+        "images/portfolio/porsche991/porsche991-8.jpg",
+        "images/portfolio/porsche991/porsche991-9.jpg",
+        "images/portfolio/porsche991/porsche991-1.jpg",
+        "images/portfolio/porsche991/porsche991-11.jpg",
+        "images/portfolio/porsche991/porsche991-12.jpg",
+        "images/portfolio/porsche991/porsche991-13.jpg",
+        "images/portfolio/porsche991/porsche991-14.jpg",
+        "images/portfolio/porsche991/porsche991-15.jpg",
+        "images/portfolio/porsche991/porsche991-16.jpg",
+        "images/portfolio/porsche991/porsche991-17.jpg",
+        "images/portfolio/porsche991/porsche991-18.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Capturando el BMW 635CSi de 1987",
+"startDate": "2019",
+"description": "El BMW 635CSi de 1987, un paradigma del diseño automotriz clásico, presentó una oportunidad única para capturar un pedazo de la historia del automovilismo. Durante la sesión, las líneas elegantes y la silueta icónica del BMW fueron acentuadas por la iluminación natural, creando una mezcla perfecta de encanto vintage y atractivo contemporáneo. El enfoque estuvo en resaltar el carácter elegante y deportivo del coche, mostrando las características distintivas que diferencian a este modelo de sus contemporáneos. Fotografiar este BMW no se trataba solo de enmarcar un coche; era capturar un legado. Cada imagen buscaba transmitir el atractivo perdurable del 635CSi, un testimonio del diseño y la excelencia ingenieril atemporales de BMW. La sesión enfatizó la gracia refinada del coche y la sensación de nostalgia que evoca, convirtiéndolo no solo en un sujeto de fotografía, sino en una obra de arte que resuena con entusiastas y coleccionistas de coches por igual.",
+      "images": [
+        "images/portfolio/bmwe24/e24-12.jpg",
+        "images/portfolio/bmwe24/e24-2.jpg",
+        "images/portfolio/bmwe24/e24-3.jpg",
+        "images/portfolio/bmwe24/e24-4.jpg",
+        "images/portfolio/bmwe24/e24-5.jpg",
+        "images/portfolio/bmwe24/e24-6.jpg",
+        "images/portfolio/bmwe24/e24-1.jpg",
+        "images/portfolio/bmwe24/e24-8.jpg",
+        "images/portfolio/bmwe24/e24-9.jpg",
+        "images/portfolio/bmwe24/e24-1.jpg",
+        "images/portfolio/bmwe24/e24-11.jpg",
+        "images/portfolio/bmwe24/e24-1.jpg",
+        "images/portfolio/bmwe24/e24-13.jpg",
+        "images/portfolio/bmwe24/e24-14.jpg",
+        "images/portfolio/bmwe24/e24-15.jpg",
+        "images/portfolio/bmwe24/e24-16.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "El Supra Mk4 Rojo en el Centro de Los Ángeles",
+"startDate": "2018",
+"description": "En el corazón del centro de Los Ángeles, un Supra Mk4 rojo se convirtió en una parte integral del tapiz urbano, yuxtapuesto contra un vibrante fondo de grafiti y estructuras de concreto marcadas. Esta sesión fotográfica tuvo como objetivo fusionar la energía cruda del arte callejero con la estética pulida del Supra, conocido por su legado en la cultura de carreras callejeras. El llamativo rojo del coche contrastaba bellamente con el colorido grafiti, creando un diálogo visual entre las formas de arte. La postura con suspensión neumática y las elegantes ruedas Work del Supra añadieron un toque extra a su presencia, armonizando con el espíritu audaz y rebelde del grafiti. Los alrededores de concreto proporcionaron un lienzo neutro pero texturizado, enfatizando las líneas elegantes y el color vibrante del coche.",
+      "images": [
+        "images/portfolio/supra/supra-1.jpg",
+        "images/portfolio/supra/supra-2.jpg",
+        "images/portfolio/supra/supra-3.jpg",
+        "images/portfolio/supra/supra-4.jpg",
+        "images/portfolio/supra/supra-6.jpg",
+        "images/portfolio/supra/supra-1.jpg",
+        "images/portfolio/supra/supra-8.jpg",
+        "images/portfolio/supra/supra-9.jpg",
+        "images/portfolio/supra/supra-10.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Porsches RWB en Borgoña y Amarillo",
+"startDate": "2018",
+"description": "Un dúo de Porsches RWB, uno en profundo borgoña y el otro en brillante amarillo, presentaron un llamativo contraste en una sesión fotográfica cuidadosamente orquestada. Estos vehículos, conocidos por su postura de carrocería ancha y meticulosas modificaciones de RAUH-Welt Begriff, ofrecieron un festín visual de excelencia automotriz. El RWB borgoña, con su profundo tono similar al vino, exudaba un sentido de elegancia clásica, mientras que el RWB amarillo brillaba con una energía casi eléctrica. La sesión fue algo más que capturar dos coches con posturas bajadas y suspensiones neumáticas; fue contar una historia de contrastes y complementos. La ubicación fue elegida para resaltar las características únicas de cada coche, con una iluminación cuidadosamente manejada para acentuar sus colores distintos. Esta pareja de RWBs creó una escena dinámica que celebró la maestría de la modificación automotriz y el carácter único de cada vehículo.",
+      "images": [
+        "images/portfolio/rwb-la/rwb_1.jpg",
+        "images/portfolio/rwb-la/rwb_2.jpg",
+        "images/portfolio/rwb-la/rwb_3.jpg",
+        "images/portfolio/rwb-la/rwb_4.jpg",
+        "images/portfolio/rwb-la/rwb_6.jpg",
+        "images/portfolio/rwb-la/rwb_1.jpg",
+        "images/portfolio/rwb-la/rwb_8.jpg",
+        "images/portfolio/rwb-la/rwb_9.jpg",
+        "images/portfolio/rwb-la/rwb_10.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-photoshop-plain",
+          "name": "Photoshop"
+        }
+      ]
+    },
+    {
+      "title": "Odd Duck: Página web",
+      "startDate": "2023",
+      "description": "Esta aplicación es un selector de productos para Odd Ducks Inc. Cada empleado de Odd Ducks llegará al trabajo y elegirá el producto que quieren ver fabricado a continuación. Después de que 25 empleados hayan elegido su producto preferido, el equipo de marketing podrá ver los resultados en una lista y una tabla que incluirá el número de visualizaciones y el número de votos de cada producto. Al día siguiente, el equipo de marketing puede actualizar la aplicación y esta guardará los votos y visualizaciones del día anterior, mientras permite otros 25 ciclos de votación.",
+      "images": [
+        "images/portfolio/odd-duck/duck-1.jpg",
+        "images/portfolio/odd-duck/duck-2.jpg"
+      ],
+      "url": "https://davidsegura07.github.io/odd-duck-products/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Glad Gaming: Página web",
+      "startDate": "2023",
+      "description": "Esta aplicación es un juego de Piedra Papel o Tijera con una tabla de clasificación que guarda los datos después de cada ronda y una página de Acerca de Nosotros. El juego contará con múltiples oponentes con diferentes estrategias y tácticas, el objetivo es obtener la mayor cantidad de victorias dentro de un cierto número de rondas y luego ganar contra el mayor número de oponentes seguidos.",
+      "images": [
+        "images/portfolio/glad-gaming/glad-1.jpg",
+        "images/portfolio/glad-gaming/glad-4.jpg",
+        "images/portfolio/glad-gaming/glad-2.jpg",
+        "images/portfolio/glad-gaming/glad-3.jpg"
+      ],
+      "url": "https://glad-gaming.github.io/glad-games/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies: Página web",
+      "startDate": "2023",
+      "description": "Pat's Salmon Cookies es un negocio que combina el amor por los dulces con la pasión por los ecosistemas saludables. El producto principal es una golosina para la hora del café llamada Salmon Cookies, que tienen una forma única de salmón y son disfrutadas tanto por humanos como por salmónes reales.",
+      "images": [
+        "images/portfolio/pats/cookies-1.jpg",
+        "images/portfolio/pats/cookies-2.jpg",
+        "images/portfolio/pats/cookies-3.jpg"
+      ],
+      "url": "https://davidsegura07.github.io/cookie-stand-david/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     }
