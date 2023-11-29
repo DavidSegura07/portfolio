@@ -16,7 +16,8 @@
         "class": "fab fa-instagram"
       }
     ],
-    "image": "battle.jpg"
+    "image": "battle.jpg",
+    "backgroundImage": "header-background-color.jpg"
   },
   "skills": {
     "icons": [
